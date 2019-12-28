@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Achim Hoffmann](mailto://achim@owasp.org)
+* [Achim Hoffmann](mailto:achim@owasp.org)

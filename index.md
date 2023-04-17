@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Ende
 tags: example-tag
-level: 0
+level: 4
 type: tool
 
 auto-migrated: 1

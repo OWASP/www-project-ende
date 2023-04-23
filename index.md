@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Ende
-tags: example-tag
+tags: encode, decode, JavaScript
 level: 2
 type: tool
 
@@ -12,6 +12,10 @@ auto-migrated: 1
 
 ---
 
+** EnDe - Encoder, Decoder, Converter, Calculator**
+
+The code is on [github.com/OWASP/EnDe] (https://github.com/OWASP/EnDe), latest changes in 2022.
+<!-- TODO -->
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
